@@ -7,7 +7,7 @@ const convertToRoman = (decimal) => {
     'I',
     'IV',
     'V',
-    'IV',
+    'IX',
     'X',
     'XL',
     'L',
